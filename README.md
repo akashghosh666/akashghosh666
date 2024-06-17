@@ -7,7 +7,7 @@
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" ></div>
 
 
-<p align="left"> <a href="https://www.instagram.com/akash_.ghosh._/" target="blank"><img src="https://img.shields.io/twitter/follow/itzakash786?logo=twitter&style=for-the-badge" alt="akashghosh" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/akash_.ghosh._/" target="blank"><img src="https://img.shields.io/twitter/follow/akashghosh?logo=twitter&style=for-the-badge" alt="akashghosh" /></a> </p>
 
 - 🔭 I’m currently working on [Coffee Website](https://coffee-website-akash.vercel.app/)
 
